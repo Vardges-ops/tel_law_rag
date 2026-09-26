@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+httpx
+pdfplumber
+qdrant-client
+FlagEmbedding
+torch
